@@ -141,6 +141,35 @@ Closure resources:
 During the closure of this project, less resources are required than the execution period but . Post release there will be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. 
 
 
+Roadmap Diagram
+
+Initiation
+The development team is formed, research and very early staged planned occurs and the website’s outline and goals should be agreed on
+
+Preparation
+The primary resource are accrued and full development can begin, a brief of the website is created (summarising the basic design and functions of the website).
+
+Planning
+Detailed planning of the website’s functions and UI occurs. Wireframes or low fidelity UI prototypes are created. Pseudocode of the backend is being created.
+
+Prototype/design
+Version 1 is created and the very basic functions of the website are implemented. High fidelity prototypes can be applied during implementation.
+
+Implementation
+All of the planning and prototypes are now being executed, a majority of development of the backend is started.
+
+Core development
+The majority of the tasks assigned to team members are in progress, applied plans are being refined. The team’s workflow and leadership quality will show they’re worth in this period on the timeline. Lean software development principles can assist in the reductions of water time and resources.
+
+QA - Verification
+A majority of the testing, bug fixing and fine tuning of the websites design or functions are occurring. VCS is essential in this development stage  are being developed).
+
+Release - Closure
+The final version is released and available to the public and all of the website’s pages, Debriefing now occurs and post monitoring will begin.
+
+Post-release monitoring
+User experience and feedback will be monitored by an assigned Admin, helping any users issues or noting bugs to fix in the next update.
+
 
 Risk Register
 
@@ -182,8 +211,6 @@ Navigation bar links can randomly take user to other undesired pages
 1
 10
 Fix links within the navigation bar
-
-
 
 Log in overflow
 After a total of 35 user accounts have been registered, there is a chance that no other entries can be created in the database.
