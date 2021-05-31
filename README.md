@@ -59,7 +59,8 @@ Hold majority shares of the company and make decisions on behalf of the sharehol
 NI
 102 Timbrook Street
 
-
+| WBS | Task |
+--------------
 Description of Product:
 
 General Description:
