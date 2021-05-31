@@ -157,6 +157,129 @@ The about page doesn’t load properly when accessed from the service page
 Fix code relating to the link between service and about
 M. Rosmov
 
+UPS Work BreakDown Structure Diagram
+
+UPS
+
+
+ID
+WPS
+Task Name
+PERT Duration
+Start
+Finish
+Predecessor
+Resource Name
+
+1
+0.1
+Planning into early prototype
+3 days 12 hours
+1/06/21
+4/06/21
+Josh, Arran, Liam
+
+2
+0.2
+Implementation all planning into current prototype
+5 days
+4/06/21
+9/06/21
+0.1
+Josh
+
+3
+0.3
+Early development of front end
+6 days
+9/06/21
+15/06/21
+0.2
+Arran, Liam, M. Rosmov
+
+4
+0.4
+Early development of back end
+5 days
+15/06/21
+20/06/21
+0.3
+Josh, Arran, Liam
+
+5
+0.4.1
+Development of database
+5 days
+20/06/21
+25/06/21
+0.4
+Josh, Arran, Liam
+
+6
+0.4.2
+Development of Javascript
+6 days
+25/06/21
+1/07/21
+0.4.1
+Josh, Arran, Liam
+
+7
+0.4.3
+Development of CSS
+3 days
+1/07/21
+3/07/21
+0.4.2
+Josh, Arran, Liam
+
+8
+0.5
+Website Testing Evaluation/ and Analysis
+8 days
+3/07/21
+11/07/21
+0.4.3
+Josh, Arran, Liam
+
+9
+0.5.1
+Evaluation and Analysis Report
+2 days
+11/07/21
+13/07/21
+0.5
+Josh, Arran, Liam
+
+10
+0.5.2
+Website Issue Fix
+4 days
+13/07/21
+17/07/21
+0.5.1
+Josh, Arran, Liam
+
+11
+0.5.3
+Test that bug fix worked
+2 days
+17/07/21
+19/07/21
+0.5.2
+Josh, Arran, Liam
+
+12
+0.6
+Post Release Monitoring 
+1 month - 5 years
+19/07/21
+19/08/21
+0.5.3
+Josh, Arran, Liam
+13
+0.7
+
 
 Testing Document
 
