@@ -92,6 +92,8 @@ The creation of our product will give us a vector of the acquisition of our serv
 
 
 Roadmap:
+
+
 Initiation
 The development team is formed, research and very early staged planned occurs and the website’s outline and goals should be agreed on
 
