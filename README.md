@@ -349,6 +349,5 @@ Order option isn't showing up
 
 
 Wireframes:
-
-
+Cant add picture
 
