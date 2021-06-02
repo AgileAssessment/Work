@@ -206,111 +206,130 @@ M. Rosmov
 
 
 
-UPS Work BreakDown Structure Diagram
+WBS Work Breakdown Structure
 
 ID
-WPS
-Task Name
+Main Task
+Sub Task
 PERT Duration
 Start
 Finish
 Predecessor
 Resource Name
-
-v1
+1
 Planning into early prototype
+Personal list, Wireframe concepts and documentation planning
 3 days 12 hours
 1/06/21
 4/06/21
-Josh, Arran, Liam
 
-v2
-Implementation all planning into current prototype
+
+Josh, Arran, Liam
+2
+Implementation planning into prototype
+Wireframes, documentation draft
 5 days
 4/06/21
 9/06/21
-0.1
-Josh
-
-v3
+1
+Josh, Arran, Liam
+3
 Early development of front end
+Starting documentation and website plan
 6 days
 9/06/21
 15/06/21
-0.2
-Arran, Liam, M. Rosmov
-
-v4
+2
+Josh, Arran, Liam
+4
 Early development of back end
+Finish documentation finish website design
 5 days
 15/06/21
 20/06/21
-0.3
+3
 Josh, Arran, Liam
-
-v5
+5
 Development of database
+Database listing and creation
 5 days
 20/06/21
 25/06/21
-0.4
+4
 Josh, Arran, Liam
-
-v6
+6
 Development of Javascript
+Creation and implementation of code
 6 days
 25/06/21
 1/07/21
-0.4.1
+5
 Josh, Arran, Liam
-
-v7
+7
 Development of CSS
+Creation and implementation of code
 3 days
 1/07/21
 3/07/21
-0.4.2
+6
 Josh, Arran, Liam
-
-v8
+8
 Website Testing Evaluation/ and Analysis
+Early testing of website functions and abilities
 8 days
 3/07/21
 11/07/21
-0.4.3
+7
 Josh, Arran, Liam
-
-v9
+9
 Evaluation and Analysis Report
+Find and document issues found
 2 days
 11/07/21
 13/07/21
-0.5
+8
 Josh, Arran, Liam
-
-v10
+10
 Website Issue Fix
+Update website with issue fix
 4 days
 13/07/21
 17/07/21
-0.5.1
+9
 Josh, Arran, Liam
-
-v11
+11
 Test that bug fix worked
+Test that website issue is now fixed
 2 days
 17/07/21
 19/07/21
-0.5.2
+10
+Josh, Arran, Liam
+12
+Website public release
+Release public version of the website
+1 day
+19/07/21
+20/07/21
+11
+Josh, Arran, Liam
+13
+Post Release Monitoring 
+Company Adim monitors the website 
+2 month
+20/07/21
+20/09/21
+12
+Josh, Arran, Liam
+14
+Post update
+Release updates for post issues
+5 days
+20/09/21
+25/09/21
+13
 Josh, Arran, Liam
 
-v12
-Post Release Monitoring 
-1 month - 5 years
-19/07/21
-19/08/21
-0.5.3
-Josh, Arran, Liam
 
 
 
