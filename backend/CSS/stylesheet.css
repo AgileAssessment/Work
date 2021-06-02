@@ -1,2 +1,40 @@
 background = images/background.png
+
 website layout = placeholder
+
+body text
+  size: small
+  font: Arial
+
+heading text
+  size: large
+  font: Orienta
+
+division = navbar
+  size: one fourth of screen
+  position: topleft
+  colour: gold
+  collapse animation duration: 2.5 seconds
+  text: large 
+  font: Nunito Sans
+
+divison = main
+  size: medium
+  font: Arial
+  spacing: medium
+
+divison = productbox1
+  postion: left
+  box width: 240 pixels
+  box height: 620 pixels
+
+divison = productbox2
+  postion: middle
+  box width: 240 pixels
+  box height: 620 pixels
+
+divison = productbox3
+  postion: right
+  box width: 240 pixels
+  box height: 620 pixels
+
