@@ -206,7 +206,9 @@ M. Rosmov
 
 
 
+
 WBS Work Breakdown Structure
+
 
 ID
 Main Task
@@ -216,124 +218,138 @@ Start
 Finish
 Predecessor
 Resource Name
+
+
 1
 Planning into early prototype
 Personal list, Wireframe concepts and documentation planning
 3 days 12 hours
 1/06/21
 4/06/21
-
-
 Josh, Arran, Liam
+
+
 2
 Implementation planning into prototype
 Wireframes, documentation draft
 5 days
 4/06/21
 9/06/21
-1
 Josh, Arran, Liam
+
+
 3
 Early development of front end
 Starting documentation and website plan
 6 days
 9/06/21
 15/06/21
-2
 Josh, Arran, Liam
+
+
 4
 Early development of back end
 Finish documentation finish website design
 5 days
 15/06/21
 20/06/21
-3
 Josh, Arran, Liam
+
+
 5
 Development of database
 Database listing and creation
 5 days
 20/06/21
 25/06/21
-4
 Josh, Arran, Liam
+
+
 6
 Development of Javascript
 Creation and implementation of code
 6 days
 25/06/21
 1/07/21
-5
 Josh, Arran, Liam
+
+
 7
 Development of CSS
 Creation and implementation of code
 3 days
 1/07/21
 3/07/21
-6
 Josh, Arran, Liam
+
+
 8
 Website Testing Evaluation/ and Analysis
 Early testing of website functions and abilities
 8 days
 3/07/21
 11/07/21
-7
 Josh, Arran, Liam
+
+
 9
 Evaluation and Analysis Report
 Find and document issues found
 2 days
 11/07/21
 13/07/21
-8
 Josh, Arran, Liam
+
+
 10
 Website Issue Fix
 Update website with issue fix
 4 days
 13/07/21
 17/07/21
-9
 Josh, Arran, Liam
+
+
 11
 Test that bug fix worked
 Test that website issue is now fixed
 2 days
 17/07/21
 19/07/21
-10
 Josh, Arran, Liam
+
+
 12
 Website public release
 Release public version of the website
 1 day
 19/07/21
 20/07/21
-11
 Josh, Arran, Liam
+
+
 13
 Post Release Monitoring 
 Company Adim monitors the website 
 2 month
 20/07/21
 20/09/21
-12
 Josh, Arran, Liam
+
+
 14
 Post update
 Release updates for post issues
 5 days
 20/09/21
 25/09/21
-13
 Josh, Arran, Liam
 
 
 
 
 Testing Document
+
 
 Process 
 Function being tested
@@ -342,24 +358,32 @@ Status
 Expected Result
 Result
 Opening website on home page from browser
+
+
 Index page
 1
 Passed
 Entered home page within 0.5 - 1.5 seconds
 Home page appeared after 1 second when link is opened
 Navigation bar collapsing from top right
+
+
 Navigation bar - all pages
 1
 Not Working
 Navigation bar collapses with animation, sliding in from the right
 Navigation bar ethier doesn’t appear at all, appears without animation or possibly crashes the website entirely
-Forgot password
+Forgot password.
+
+
 Login process
 4
 passed
 User verification and password reset 
 Confirmation email was sent to user to allow there password to be reset
 Order Process
+
+
 Ordering Ability
 6
 In progress
