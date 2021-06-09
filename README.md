@@ -107,12 +107,43 @@ During the closure of this project, less resources are required than the executi
 
 
 Risk Register
-|Risk Desc|Impact Desc|Impact Level (1 - 10)|Probability Level (1 - 10)|Priority Level (1 - 25)|Mitigation precautions|Responsibility|
-|:--|:--:|:--:|:--:|:--:|:--:|:--:|--:|
-|Error message of “Script jvscpt 72 fatal error” when buttons are pressed||Doesn’t seem to impact the button but is annoying|1||8|4|
 
+Project Risk Plan for: Hashing Advertisements website
+Assessment team members: (Responsibility refers to the stakeholder )
+Risk Desc
+Impact Desc
+Impact Level (1 - 10)
+Probability Level (1 - 10)
+Priority Level (1 - 25)
+Mitigation precautions
+Responsibility
+Liam absence
+One of the individuals on the development team is absent often, and his tasks can be communicated to him.
+7
+4
+18
+Establish contact via Zoom, Skype or Microsoft teams
+Give tasks to him through these programs
+
+T. Jameson
+Josh work leave
+Josh takes a work leave to Columbia on occasion, often coming back within 2 weeks to a month.
+5
+2
+16
+ -  Get him a mobile work solution (Laptop w/ international mobile data plan)
+- Make him contact from zoom or skype with said laptop
+
+
+Josh, T. Jameson
+Error message of “Script javascpt 72 fatal error” when buttons are pressed
+Doesn’t seem to impact the button but is annoying
+1
+8
+4
 Fix referred line in javascript backend
 Delete function
+
 M. Rosmov
 Navigation bar causing crashing
 Website freezes and crashes when the navigation bar is dropped down
@@ -121,6 +152,7 @@ Website freezes and crashes when the navigation bar is dropped down
 22
 Analyse, locate and fix bugs or messy code in the navigation bar section of code
 Analyse and fix code linking/relating to navigation bar
+
 M. Rosmov
 Banner resolution
 The banner’s resolution is extremely low
@@ -130,6 +162,7 @@ The banner’s resolution is extremely low
 If export mistake: save banner as png and a higher resolution
 If image is actually that resolution: Upscale via photoshop or AI
 Can always create another image
+
 N. Alan
 Link switching
 Navigation bar links can randomly take user to other undesired pages
@@ -138,6 +171,7 @@ Navigation bar links can randomly take user to other undesired pages
 10
 Fix links within the navigation bar
 
+M. Rosmov
 Log in overflow
 After a total of 35 user accounts have been registered, there is a chance that no other entries can be created in the database.
 7
@@ -146,6 +180,7 @@ After a total of 35 user accounts have been registered, there is a chance that n
 Analyse backend code that is linking the login information to database
 Analyse database itself and its link to website backend
 Fix issues when found
+
 M. Rosmov
 About page doesn’t load
 The about page doesn’t load properly when accessed from the service page
@@ -153,8 +188,53 @@ The about page doesn’t load properly when accessed from the service page
 5
 14
 Fix code relating to the link between service and about
+
 M. Rosmov
 
+Testing Document
+
+Process 
+Function being tested
+Steps
+Status
+Expected Result
+Result
+Opening website on home page from browser
+Index page
+1
+Passed
+Entered home page within 0.5 - 1.5 seconds
+Home page appeared after 1 second when link is opened
+Navigation bar collapsing from top right
+Navigation bar - all pages
+1
+Not Working
+Navigation bar collapses with animation, sliding in from the right
+Navigation bar ethier doesn’t appear at all, appears without animation or possibly crashes the website entirely
+Forgot password
+Login process
+4
+Passed
+User verification and password reset 
+Confirmation email was sent to user to allow there password to be reset
+Order Process
+Ordering Ability
+6
+In progress
+Order option is supposed to show
+Order option isn't showing up
+More details button
+More details button within the “Our Services” page
+2
+Not working
+Clicking the button “More details” will send the user to the service listings page
+Link could be broken or the button function isn’t working properly, possibly the boxes that hold them could break the button.
+Service boxes
+Boxes within the the “Our services” page
+1
+Passed
+Upon entering the our services page, there will be three boxes in the bottom three quarters of the page the hold the brief information and contact details of the service
+Boxes appear as desired, holding all contents adequately.
 
 
 
