@@ -1,63 +1,16 @@
 # Work
 
-Stakeholder list:
-Stakeholder documentation
-Name
-Position
-Internal/External
-Department
-Expectation
-Alma Mater
-Location
-H. Giovanni
-CEO
-Internal
-Management
-Manage the entire team/company and make higher level decisions.
-Uni of Milan - General Management
-12 Richmond Street
-T. Jameson
-Project Director
-Internal
-Management
-Cooperate with the CEO, lead the development team in-depth, ensure efficient workflow and quality results of the project.
-Victoria Uni - Project Management
-71 Miller Drive
-M. Rosmov
-Lead Programmer
-Internal
-Development
-Manage all of the programmers and assist/oversee their workings.
-Kyiv Uni - Programming
-95 Hillpark Street
-N. Alan
-Lead Designer
-Internal
-Development
-Administer all designers and related design decisions of the project.
-Melbourne College of Art  - Design
-24 Limbston Lane 
-L. Man
-Lead Marketing
-Internal
-Marketing
-Steer marketing efforts both digital and physical, will also advise decisions associated with our business; due to the focus of our services being marketing.
-Canterbury Uni - Marketing
-9 St. Michael Street
-Q. Jones
-QA lead
-Internal
-QA
-Ensure the overall quality of our product, and diagnose any flaws associated with the product.
-Unitec - Quality Management
-43 Havel Drive
-D. Laster
-Majority Shareholder
-External
-N/A
-Hold majority shares of the company and make decisions on behalf of the shareholders.
-NI
-102 Timbrook Street
+Stakeholder lisT
+|Stakeholder documentation|
+|Name|Position|Internal/External|Department|Expectation|Alma Mater|Location|
+|:--|:--:|:--:|:--:|:--:|:--:|--:|
+|H. Giovanni|CEO|Internal|Management|Manage the entire team/company and make higher level decisions|Uni of Milan - General Management|12 Richmond Street
+|T. Jameson|Project Director|Internal|Management|Cooperate with the CEO, lead the development team in-depth, ensure efficient workflow and quality results of the project|Victoria Uni - Project Management|71 Miller Drive
+|M. Rosmov|Lead Programmer|Internal|Development|Manage all of the programmers and assist/oversee their workings.|Kyiv Uni - Programming|95 Hillpark Street
+|N. Alan|Lead Designer|Internal|Development|Administer all designers and related design decisions of the project|Melbourne College of Art  - Design|24 Limbston Lane|
+|L. Man|Lead Marketing|Internal|Marketing|Steer marketing efforts both digital and physical, will also advise decisions associated with our business; due to the focus of our services being marketing|Canterbury Uni - Marketing|9 St. Michael Street|
+|Q. Jones|QA lead|Internal|QA|Ensure the overall quality of our product, and diagnose any flaws associated with the product|Unitec - Quality Management|43 Havel Drive
+|D. Laster|Majority Shareholder|External|N/A|Hold majority shares of the company and make decisions on behalf of the shareholders|NI|102 Timbrook Street
 
 
 Description of Product:
