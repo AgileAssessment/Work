@@ -104,26 +104,10 @@ This phase of the project’s timeline, the resources required are more than the
 Closure resources:
 During the closure of this project, less resources are required than the execution period but . Post release there will be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. 
 
-
-
 Risk Register
-
-Project Risk Plan for: Hashing Advertisements website
-Assessment team members: (Responsibility refers to the stakeholder )
-Risk Desc
-Impact Desc
-Impact Level (1 - 10)
-Probability Level (1 - 10)
-Priority Level (1 - 25)
-Mitigation precautions
-Responsibility
-Liam absence
-One of the individuals on the development team is absent often, and his tasks can be communicated to him.
-7
-4
-18
-Establish contact via Zoom, Skype or Microsoft teams
-Give tasks to him through these programs
+|Project Risk Plan for: Hashing Advertisements website|Assessment team members:Responsibility refers to the stakeholder|Risk Desc|Impact Desc|Impact Level (1 - 10)|Probability Level (1 - 10)|Priority Level (1 - 25)|Mitigation precautions|Responsibility|
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|--:|
+|Liam absence|One of the individuals on the development team is absent often, and his tasks can be communicated to him|7|4|18|Establish|contact via Zoom, Skype or Microsoft teams|Give tasks to him through these programs|
 
 T. Jameson
 Josh work leave
