@@ -1,7 +1,7 @@
 # Work
 
 Stakeholder lisT
-|Stakeholder documentation|
+Stakeholder documentation
 |Name|Position|Internal/External|Department|Expectation|Alma Mater|Location|
 |:--|:--:|:--:|:--:|:--:|:--:|--:|
 |H. Giovanni|CEO|Internal|Management|Manage the entire team/company and make higher level decisions|Uni of Milan - General Management|12 Richmond Street
@@ -23,14 +23,13 @@ General Description:
 HashingAdvertisements.com is a website that will present the advertising services of Hashing Advertisements inc, these services can be ordered and configured on the website. Customers can view the specific details, customize then order the advertising services. The design of our website should reflect our style and format of our advertisements, so the quality of  The website’s design will be a mix of minimalism and corporate imagery, appealing to the larger firms that require advertising services. 
  
 This product is being made to both promote and ease the acquisition of our company’s services.
-Main Features:
-The frontend pages of the website are the Home, Our Services, Service Listings, About and Login. The backend of the website will contain CSS, Javascript and a database of login details.
 
-Every page: Navigation bar, background and top banner.
-
-
-Home: Central banner of main service, gloss over description.
-Our services page: Give description of services with contact details of sales staff, button leading to service listings page.
+|Main Features|
+|-|
+|The frontend pages of the website are the Home, Our Services, Service Listings, About and Login. The backend of the website will contain CSS, Javascript and a database of login details|
+|Every page: Navigation bar, background and top banner|
+|Home: Central banner of main service, gloss over description|
+|Our services page: Give description of services with contact details of sales staff, button leading to service listings page|
 Service listings(pricing) page: Lists every service, it’s price and details.
 About: Description of company’s history, goals, staff and products/services. 
 Login: Login screen for staff and returning customers.
@@ -108,20 +107,10 @@ During the closure of this project, less resources are required than the executi
 
 
 Risk Register
+|Risk Desc|Impact Desc|Impact Level (1 - 10)|Probability Level (1 - 10)|Priority Level (1 - 25)|Mitigation precautions|Responsibility|
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|--:|
+|Error message of “Script jvscpt 72 fatal error” when buttons are pressed||Doesn’t seem to impact the button but is annoying|1||8|4|
 
-
-Risk Desc
-Impact Desc
-Impact Level (1 - 10)
-Probability Level (1 - 10)
-Priority Level (1 - 25)
-Mitigation precautions
-Responsibility
-Error message of “Script jvscpt 72 fatal error” when buttons are pressed
-Doesn’t seem to impact the button but is annoying
-1
-8
-4
 Fix referred line in javascript backend
 Delete function
 M. Rosmov
