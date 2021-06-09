@@ -94,48 +94,57 @@ The creation of our product will give us a vector of the acquisition of our serv
 Roadmap:
 
 
-Initiation
-The development team is formed, research and very early staged planned occurs and the website’s outline and goals should be agreed on
+|Initiation|
+|-|
+|The development team is formed, research and very early staged planned occurs and the website’s outline and goals should be agreed on|
 
 
-Preparation
-The primary resource are accrued and full development can begin, a brief of the website is created (summarising the basic design and functions of the website).
+|Preparation|
+|-|
+|The primary resource are accrued and full development can begin, a brief of the website is created (summarising the basic design and functions of the website)|
 
 
-Planning
-Detailed planning of the website’s functions and UI occurs. Wireframes or low fidelity UI prototypes are created. Pseudocode of the backend is being created.
+|Planning|
+|-|
+|Detailed planning of the website’s functions and UI occurs. Wireframes or low fidelity UI prototypes are created. Pseudocode of the backend is being created|
 
 
-Prototype/design
-Version 1 is created and the very basic functions of the website are implemented. High fidelity prototypes can be applied during implementation.
+|Prototype/design|
+|_|
+|Version 1 is created and the very basic functions of the website are implemented. High fidelity prototypes can be applied during implementation|
 
 
-Implementation
-All of the planning and prototypes are now being executed, a majority of development of the backend is started.
+|Implementation|
+|-|
+|All of the planning and prototypes are now being executed, a majority of development of the backend is started|
 
 
-Core development
-The majority of the tasks assigned to team members are in progress, applied plans are being refined. The team’s workflow and leadership quality will show they’re worth in this period on the timeline. Lean software development principles can assist in the reductions of water time and resources.
+|Core development|
+|-|
+|The majority of the tasks assigned to team members are in progress, applied plans are being refined. The team’s workflow and leadership quality will show they’re worth in this period on the timeline. Lean software development principles can assist in the reductions of water time and resources|
 
 
-QA - Verification
-A majority of the testing, bug fixing and fine tuning of the websites design or functions are occurring. VCS is essential in this development stage  are being developed).
+|QA - Verification|
+|-|
+|A majority of the testing, bug fixing and fine tuning of the websites design or functions are occurring. VCS is essential in this development stage  are being developed)|
 
 
-Release - Closure
-The final version is released and available to the public and all of the website’s pages, Debriefing now occurs and post monitoring will begin.
+|Release - Closure|
+|-|
+|The final version is released and available to the public and all of the website’s pages, Debriefing now occurs and post monitoring will begin|
 
 
-Post-release monitoring
-User experience and feedback will be monitored by an assigned Admin, helping any users issues or noting bugs to fix in the next update.
+|Post-release monitoring|
+|-|
+|User experience and feedback will be monitored by an assigned Admin, helping any users issues or noting bugs to fix in the next update|
 
 
 
 Initial resources:
-At the start of the project development, resources for almost the entire project are gathered. The basic needs of this project are the funding, development space/area, PCs and development tools, total value of funding at this level of the project is estimated to be around $15,000 to $32,500. The office space of Hashing Advertisements already provided by the company will be used, desktop PCs, laptops and tablets are supplied by the company also. Paid software tools used to develop the website throughout the timeline will be: Adobe Photoshop ($33.44 per month) and Microsoft Office 365 Business Standard (NZ$18.90). For reference the free software in use is Microsoft Visual Studio or Notepad++ for coding and editing the website, Filezilla for FTP and (web based) Github as VCS.
+At the start of the project development, resources for almost the entire project are gathered. The basic needs of this project are the funding, development space/area, PCs and development tools, total value of funding at this level of the project is estimated to be around $15,000 to $32,500. The office space of Hashing Advertisements already provided by the company will be used, desktop PCs, laptops and tablets are supplied by the company also. Paid software tools used to develop the website throughout the timeline will be: Adobe Photoshop ($33.44 per month) and Microsoft Office 365 Business Standard (NZ$18.90). For reference the free software in use is Microsoft Visual Studio or Notepad++ for coding and editing the website, Filezilla for FTP and (web based) Github as VCS
 
 Planning resources:
-At this stage, up until the wireframe and prototypes are finished and implemented into the execution, funding will probably be minimal and used mostly on the team’s upkeep. Tools to create wireframes, GUI prototypes and general image manipulation will be essential in this stage. So software such as: Balsamiq, Adobe xd and Photoshop, Webflow or Framer are good choices for the various tasks during the visual prototyping phase.
+At this stage, up until the wireframe and prototypes are finished and implemented into the execution, funding will probably be minimal and used mostly on the team’s upkeep. Tools to create wireframes, GUI prototypes and general image manipulation will be essential in this stage. So software such as: Balsamiq, Adobe xd and Photoshop, Webflow or Framer are good choices for the various tasks during the visual prototyping phase
 
 Execution resources:
 This phase of the project’s timeline, the resources required are more than the planning phase. Both the programming of the website’s front end structure and functions, and it’s code heavy backend can cause many problems and reactive solutions. Another injection of funding is possibly needed to smoothly progress in the project, but may not be entirely necessary.
