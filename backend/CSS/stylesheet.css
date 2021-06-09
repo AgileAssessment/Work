@@ -1,2 +1,49 @@
+"The CSS defines most of the visual aspects of the website, the divisions seen in the html files are defined here and general tags such as body and heading text are also defined"
+
 background = images/background.png
+
 website layout = placeholder
+
+body text
+  size: small
+  font: Arial
+
+heading text
+  size: large
+  font: Orienta
+
+division = navbar
+  position: topleft
+  colour: gold
+  text: large 
+  font: Nunito Sans
+
+divison = main
+  size: medium
+  font: Arial
+  spacing: medium
+
+"Below is the product boxes seen on ourservices.html, they're in fixed postions across the entire page and are a high risk"
+divison = productbox1
+  postion: fixed left
+  box width: 240 pixels
+  box height: 620 pixels
+
+divison = productbox2
+  postion: fixed middle
+  box width: 240 pixels
+  box height: 620 pixels
+
+divison = productbox3
+  postion: fixed right
+  box width: 240 pixels
+  box height: 620 pixels
+
+"The below code is connected to the javascript (webscript) in assoication with expanding/collapsing the navigation bar"
+navbar open
+  navbar height: adaptive to user's resolution
+  navbar width:  480 pixels
+
+navbar close
+  navbar height: 0 pixels
+  navbar width:  0 pixels
