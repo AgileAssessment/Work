@@ -1,7 +1,5 @@
 # Work
-
-Stakeholder lisT
-Stakeholder documentation
+Stakeholder Information
 |Name|Position|Internal/External|Department|Expectation|Alma Mater|Location|
 |:--|:--:|:--:|:--:|:--:|:--:|--:|
 |H. Giovanni|CEO|Internal|Management|Manage the entire team/company and make higher level decisions|Uni of Milan - General Management|12 Richmond Street
@@ -10,7 +8,7 @@ Stakeholder documentation
 |N. Alan|Lead Designer|Internal|Development|Administer all designers and related design decisions of the project|Melbourne College of Art  - Design|24 Limbston Lane|
 |L. Man|Lead Marketing|Internal|Marketing|Steer marketing efforts both digital and physical, will also advise decisions associated with our business; due to the focus of our services being marketing|Canterbury Uni - Marketing|9 St. Michael Street|
 |Q. Jones|QA lead|Internal|QA|Ensure the overall quality of our product, and diagnose any flaws associated with the product|Unitec - Quality Management|43 Havel Drive
-|D. Laster|Majority Shareholder|External|N/A|Hold majority shares of the company and make decisions on behalf of the shareholders|NI|102 Timbrook Street
+|D. Laster|Majority Shareholder|External|N/A|Hold majority shares of the company and make decisions on behalf of the shareholders|NI|102 Timbrook Street|
 
 
 Description of Product:
@@ -105,75 +103,21 @@ Closure resources:
 During the closure of this project, less resources are required than the execution period but . Post release there will be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. 
 
 Risk Register
-|Project Risk Plan for: Hashing Advertisements website|Assessment team members:Responsibility refers to the stakeholder|Risk Desc|Impact Desc|Impact Level (1 - 10)|Probability Level (1 - 10)|Priority Level (1 - 25)|Mitigation precautions|Responsibility|
-|:--|:--:|:--:|:--:|:--:|:--:|:--:|--:|
-|Liam absence|One of the individuals on the development team is absent often, and his tasks can be communicated to him|7|4|18|Establish|contact via Zoom, Skype or Microsoft teams|Give tasks to him through these programs|
 
-T. Jameson
-Josh work leave
-Josh takes a work leave to Columbia on occasion, often coming back within 2 weeks to a month.
-5
-2
-16
- -  Get him a mobile work solution (Laptop w/ international mobile data plan)
-- Make him contact from zoom or skype with said laptop
+Project Risk Plan for: Hashing Advertisements website
 
-
-Josh, T. Jameson
-Error message of “Script javascpt 72 fatal error” when buttons are pressed
-Doesn’t seem to impact the button but is annoying
-1
-8
-4
-Fix referred line in javascript backend
-Delete function
-
-M. Rosmov
-Navigation bar causing crashing
-Website freezes and crashes when the navigation bar is dropped down
-9
-3
-22
-Analyse, locate and fix bugs or messy code in the navigation bar section of code
-Analyse and fix code linking/relating to navigation bar
-
-M. Rosmov
-Banner resolution
-The banner’s resolution is extremely low
-2
-10
-6
-If export mistake: save banner as png and a higher resolution
-If image is actually that resolution: Upscale via photoshop or AI
-Can always create another image
-
-N. Alan
-Link switching
-Navigation bar links can randomly take user to other undesired pages
-4
-1
-10
-Fix links within the navigation bar
-
-M. Rosmov
-Log in overflow
-After a total of 35 user accounts have been registered, there is a chance that no other entries can be created in the database.
-7
-1
-19
-Analyse backend code that is linking the login information to database
-Analyse database itself and its link to website backend
-Fix issues when found
-
-M. Rosmov
-About page doesn’t load
-The about page doesn’t load properly when accessed from the service page
-5
-5
-14
-Fix code relating to the link between service and about
-
-M. Rosmov
+Assessment team members: (Responsibility refers to the stakeholder)
+|Risk Description|Impact Description|Impact Level (1 - 10)|Probability Level (1 - 10)|Priority Level (1 - 25)|Mitigation precautions|Responsibility|
+|--|--|--|--|--|--|
+|:---|:---:|:---:|:---:|:---:|---:|
+|Liam absence|One of the individuals on the development team is absent often, and his tasks can be communicated to him|7|4||18|Establish|contact via Zoom, Skype or Microsoft teams | Give tasks to him through these programs|
+|T. Jameson|Josh work leave|Josh takes a work leave to Columbia on occasion, often coming back within 2 weeks to a month|5|2|16|Get him a mobile work solution (Laptop w/ international mobile data plan)|Make him contact from zoom or skype with said laptop|
+|Josh, T. Jameson|Error message of “Script javascpt 72 fatal error” when buttons are pressed|Doesn’t seem to impact the button but is annoying|1|8|4|Fix referred line in javascript backend|Delete function|M. Rosmov|
+|Navigation bar causing crashing|Website freezes and crashes when the navigation bar is dropped down|9|3|22|Analyse, locate and fix bugs or messy code in the navigation bar section of code|Analyse and fix code linking/relating to navigation bar|M. Rosmov|
+|Banner resolution|The banner’s resolution is extremely low|2|10|6|If export mistake: save banner as png and a higher resolution|If image is actually that resolution: Upscale via photoshop or AI|Can always create another image|N. Alan
+|Link switching||Navigation bar links can randomly take user to other undesired pages|4|1|10|Fix links within the navigation bar|M. Rosmov|
+|Log in overflow|After a total of 35 user accounts have been registered, there is a chance that no other entries can be created in the database|7|1|19|Analyse backend code that is linking the login information to database|Analyse database itself and its link to website backend|Fix issues when found|M. Rosmov
+|About page doesn’t load|The about page doesn’t load properly when accessed from the service page|5|5|14|Fix code relating to the link between service and about|M. Rosmov|
 
 Testing Document
 
