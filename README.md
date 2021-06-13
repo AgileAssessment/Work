@@ -37,25 +37,10 @@ The creation of our product will give us a vector of the acquisition of our serv
 
 ## WBS Work Breakdown Structure
 
-ID | Main Task | Sub Task | PERT Duration | Start | Finish | Predecessor | Resource Name
-1 | Planning into early prototype | Personal list, Wireframe concepts and documentation planning | 3 days 12 hours | 1/06/21 | 4/06/21 | Josh, Arran, Liam
-ID
-Main Task
-Sub Task
-PERT Duration
-Start
-Finish
-Predecessor
-Resource Name
-1
-Planning into early prototype
-Personal list, Wireframe concepts and documentation planning
-3 days 12 hours
-1/06/21
-4/06/21
+|ID|Main Task|Sub Task|PERT Duration|Start|Finish|Predecessor|Resource Name|
+|:--|:--:|:--:|:--:|:--:|:--:|--:|
+|1|Planning into early prototype|Personal list, Wireframe concepts and documentation planning|3 days 12 hours|1/06/21|4/06/21|N/a|Josh, Arran, Liam|
 
-
-Josh, Arran, Liam
 2
 Implementation planning into prototype
 Wireframes, documentation draft
