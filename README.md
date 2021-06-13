@@ -9,7 +9,7 @@ Stakeholder Information
 |L. Man|Lead Marketing|Internal|Marketing|Steer marketing efforts both digital and physical, will also advise decisions associated with our business; due to the focus of our services being marketing|Canterbury Uni - Marketing|9 St. Michael Street|
 |Q. Jones|QA lead|Internal|QA|Ensure the overall quality of our product, and diagnose any flaws associated with the product|Unitec - Quality Management|43 Havel Drive
 |D. Laster|Majority Shareholder|External|N/A|Hold majority shares of the company and make decisions on behalf of the shareholders|NI|102 Timbrook Street|
-|Josh|Developer||Internal||Development|Grunt developer, specialized in Javascript and HTML.|N/A|N/A|
+|Josh|Developer|Internal|Development|Grunt developer, specialized in Javascript and HTML.|N/A|N/A|
 |Liam|Developer|Internal|Development|Specialized in all types of coding and design.|N/A|N/A|
 |Arran|Developer|Internal|Development|Specialized in all coding and design tools.|N/A|N/A|
 
