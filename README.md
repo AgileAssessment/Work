@@ -73,7 +73,7 @@ The creation of our product will give us a vector of the acquisition of our serv
 
 
 |Prototype/design|
-|_|
+|=|
 |Version 1 is created and the very basic functions of the website are implemented. High fidelity prototypes can be applied during implementation|
 
 
