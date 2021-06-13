@@ -1,4 +1,4 @@
-# Work
+# Documentation of HashingAdvertisements.com
 Stakeholder Information
 |Name|Position|Internal/External|Department|Expectation|Alma Mater|Location|
 |:--|:--:|:--:|:--:|:--:|:--:|--:|
@@ -9,10 +9,17 @@ Stakeholder Information
 |L. Man|Lead Marketing|Internal|Marketing|Steer marketing efforts both digital and physical, will also advise decisions associated with our business; due to the focus of our services being marketing|Canterbury Uni - Marketing|9 St. Michael Street|
 |Q. Jones|QA lead|Internal|QA|Ensure the overall quality of our product, and diagnose any flaws associated with the product|Unitec - Quality Management|43 Havel Drive
 |D. Laster|Majority Shareholder|External|N/A|Hold majority shares of the company and make decisions on behalf of the shareholders|NI|102 Timbrook Street|
+|Josh|Developer||Internal||Development|Grunt developer, specialized in Javascript and HTML.|N/A|N/A|
+|Liam|Developer|Internal|Development|Specialized in all types of coding and design.|N/A|N/A|
+|Arran|Developer|Internal|Development|Specialized in all coding and design tools.|N/A|N/A|
 
-# Description of Product
 
-## General Description
+
+
+
+## Description of Product
+
+### General Description
 
 HashingAdvertisements.com is a website that will present the advertising services of Hashing Advertisements inc, these services can be ordered and configured on the website. Customers can view the specific details, customize then order the advertising services. The design of our website should reflect our style and format of our advertisements, so the quality of  The website’s design will be a mix of minimalism and corporate imagery, appealing to the larger firms that require advertising services.
 This product is being made to both promote and ease the acquisition of our company’s services.
@@ -122,44 +129,15 @@ Assessment team members: (Responsibility refers to the stakeholder)
 
 |Risk Desc|Impact Desc|Impact Level (1 - 10)|Probability Level (1 - 10)|Priority Level (1 - 25)|Mitigation precautions|Responsibility
 |:--|:--:|:--:|:--:|:--:|:--:|--:|
-|Liam absence|One of the individuals on the development team is absent often, and his tasks can be communicated to him|7|4||18|Establish|contact via Zoom, Skype or Microsoft teams | Give tasks to him through these programs|
-|T. Jameson|Josh work leave|Josh takes a work leave to Columbia on occasion, often coming back within 2 weeks to a month|5|2|16|Get him a mobile work solution (Laptop w/ international mobile data plan)|Make him contact from zoom or skype with said laptop|
-|Josh, T. Jameson|Error message of “Script javascpt 72 fatal error” when buttons are pressed|Doesn’t seem to impact the button but is annoying|1|8|4|Fix referred line in javascript backend|Delete function|M. Rosmov|
+|Liam absence|One of the individuals on the development team is absent often, and his tasks can be communicated to him|7|4||18|Establish|contact via Zoom, Skype or Microsoft teams | Give tasks to him through these programs|T. Jameson|
+|Josh work leave|Josh takes a work leave to Columbia on occasion, often coming back within 2 weeks to a month|5|2|16|Get him a mobile work solution (Laptop w/ international mobile data plan)|Make him contact from zoom or skype with said laptop|Josh, T. Jameson|
+
+Error message of “Script javascpt 72 fatal error” when buttons are pressed|Doesn’t seem to impact the button but is annoying|1|8|4|Fix referred line in javascript backend|Delete function|M. Rosmov|
 |Navigation bar causing crashing|Website freezes and crashes when the navigation bar is dropped down|9|3|22|Analyse, locate and fix bugs or messy code in the navigation bar section of code|Analyse and fix code linking/relating to navigation bar|M. Rosmov|
-|Banner resolution|The banner’s resolution is extremely low|2|10|6|If export mistake: save banner as png and a higher resolution|If image is actually that resolution: Upscale via photoshop or AI|Can always create another image|N. Alan
+|Banner resolution|The banner’s resolution is extremely low|2|10|6|If export mistake: save banner as png and a higher resolution|If image is actually that resolution: Upscale via photoshop or AI|Can always create another image|N. Alan|
 |Link switching||Navigation bar links can randomly take user to other undesired pages|4|1|10|Fix links within the navigation bar|M. Rosmov|
-|Log in overflow|After a total of 35 user accounts have been registered, there is a chance that no other entries can be created in the database|7|1|19|Analyse backend code that is linking the login information to database|Analyse database itself and its link to website backend|Fix issues when found|M. Rosmov
+|Log in overflow|After a total of 35 user accounts have been registered, there is a chance that no other entries can be created in the database|7|1|19|Analyse backend code that is linking the login information to database|Analyse database itself and its link to website backend|Fix issues when found|M. Rosmov|
 |About page doesn’t load|The about page doesn’t load properly when accessed from the service page|5|5|14|Fix code relating to the link between service and about|M. Rosmov|
-
-# Testing Document
-
-|Process|Function being tested|Steps|Status|Expected Result|Result|
-|:--|:--:|:--:|:--:|:--:|--:|
-|Opening website on home page from browser|Index page|1|Passed|Entered home page within 0.5 - 1.5 seconds|Home page appeared after 1 second when link is opened
-|Navigation bar collapsing from top right|Navigation bar - all pages|1|Not Working|Navigation bar collapses with animation, sliding in from the right|Navigation bar ethier doesn’t appear at all, appears without animation or possibly crashes the website entirely
-|Forgot password|Login process|4|Passed|User verification and password reset|Confirmation email was sent to user to allow there password to be reset
-|Order Process|Ordering Ability|6|In progress|Order option is supposed to show|Order option isn't showing up
-|More details button|More details button within the “Our Services” page|2|Not working|Clicking the button “More details” will send the user to the service listings page|Link could be broken or the button function isn’t working properly, possibly the boxes that hold them could break the button.
-|Service boxes|Boxes within the the “Our services” page|1|Passed|Upon entering the our services page, there will be three boxes in the bottom three quarters of the page the hold the brief information and contact details of the service|Boxes appear as desired, holding all contents adequately.
-
-# WBS Work Breakdown Structure
-
-|ID|Main Task|Sub Task|PERT Duration|Start|Finish|Predecessor|Resource Name|
-|:--|:--:|:--:|:--:|:--:|:--:|:--:|--:|
-|1|Planning into early prototype|Personal list, Wireframe concepts and documentation planning|3 days 12 hours|1/06/21|4/06/21|0|Josh, Arran, Liam
-|2|Implementation planning into prototype|Wireframes, documentation draft|5 days|4/06/21|9/06/21|1|Josh, Arran, Liam|
-|3|Early development of front end|Starting documentation and website plan|6 days|9/06/21|15/06/21|2|Josh, Arran, Liam|
-|4|Early development of back end|Finish documentation finish website design|5 days|15/06/21|20/06/21|3|Josh, Arran, Liam|
-|5|Development of database|Database listing and creation|5 days|20/06/21|25/06/21|4|Josh, Arran, Liam|
-|6|Development of Javascript|Creation and implementation of code|6 days|25/06/21|1/07/21|5|Josh, Arran, Liam|
-|7|Development of CSS|Creation and implementation of code|3 days|1/07/21|3/07/21|6|Josh, Arran, Liam|
-|8|Website Testing Evaluation/ and Analysis|Early testing of website functions and abilities|8 days|3/07/21|11\07/21|7|Josh, Arran, Liam|
-|9|Evaluation and Analysis Report|Find and document issues found|2 days|11/07/21|13/07/21|8|Josh, Arran, Liam|
-|10|Website Issue Fix|Update website with issue fix|4 days|13/07/21|17/07/21|9|Josh, Arran, Liam|
-|11|Test that bug fix worked|Test that website issue is now fixed|2 days|17/07/21|19/07/21|10|Josh, Arran, Liam|
-|12|Website public release|Release public version of the website|1 day|19/07/21|20/07/21|11|Josh, Arran, Liam|
-|13|Post Release Monitoring|Company Adim monitors the website|2 month|20/07/21|20/09/21|12|Josh, Arran, Liam|
-|14|Post update|Release updates for post issues|5 days|20/09/21|25/09/21|13|Josh, Arran, Liam|
 
 # Testing Document
 
