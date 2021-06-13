@@ -36,6 +36,7 @@ Reflection analysis
 The creation of our product will give us a vector of the acquisition of our services, increasing our client pool and in turn net revenue. Another benefit we gain from this is the experience our staff gain from the development process,
 
 WBS Work Breakdown Structure
+
 |ID|Main Task|Sub Task|PERT Duration|Start|Finish|Predecessor|Resource Name|
 |:--|:--:|:--:|:--:|:--:|:--:|--:|
 |1|Planning into early prototype|Personal list, Wireframe concepts and documentation planning|3 days 12 hours|1/06/21|4/06/21|N/a|Josh, Arran, Liam|
