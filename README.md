@@ -21,8 +21,9 @@ Stakeholder Information
 
 ### General Description
 
-HashingAdvertisements.com is a website that will present the advertising services of Hashing Advertisements inc, these services can be ordered and configured on the website. Customers can view the specific details, customize then order the advertising services. The design of our website should reflect our style and format of our advertisements, so the quality of  The website’s design will be a mix of minimalism and corporate imagery, appealing to the larger firms that require advertising services.
-This product is being made to both promote and ease the acquisition of our company’s services.
+“HashingAdvertisements.com” is going to be a website that will present the advertising services of Hashing Advertisements inc, these services can be ordered and configured on the website. Customers can view the specific details, customize then order the advertising services. The design of our website should reflect our style and format of our advertisements, so the quality of  The website’s design will be a mix of minimalism and corporate imagery, appealing to the larger firms that require advertising services. 
+ 
+This product is being made to both promote and ease the acquisition of our company’s services. And to also expand our horizons on potential clientele, and both flourish financially from deals with them through contact with our sales team.
 
 |Main Features|
 |-|
@@ -30,19 +31,18 @@ This product is being made to both promote and ease the acquisition of our compa
 |Every page: Navigation bar, background and top banner|
 |Home: Central banner of main service, gloss over description|
 |Our services page: Give description of services with contact details of sales staff, button leading to service listings page|
-Service listings(pricing) page: Lists every service, it’s price and details.
-About: Description of company’s history, goals, staff and products/services. 
-Login: Login screen for staff and returning customers.
+|Service listings(pricing) page: Lists every service, it’s price and details.|
+|About: Description of company’s history, goals, staff and products/services.|
+|Login: Login screen for staff and returning customers.|
+
+### Comparison to similar products
+Basically every big tech company has an advertising product or service, incorporating AI and personalized content. Our services are more based on the procurement and placement of advertisements physically and/or digitally on different platforms, rather than the automatic placements on big tech owned services. Other than that, the agencies that are focused on advertisement are either distributing or creating the adverts, our firm does both or one of the services whether or not the client chooses them or not. Although big tech is the goliath to our David, there are much more mid to small scale competitors with similar websites that we must stand out from. In this case we should make our website’s design striking yet unique and most of all, simple and navigable for maximum ease of use and visually distinctness for any future clients.
+
+### Reflection analysis
+After the release of our product, hashingadvertisements.com will give us a source of acquisitions of our services, increasing our client pool and in turn net revenue. Another benefit we gain from this is the experience our staff gain from the development process, this experience can be applied to the post-release monitoring and updates or future projects. In the future our team might create a successor to our recently made website or another project entirely, and can reflect on both the steps and milestones, successes and issues overcome within the course of this project’s timeline. Our company might create a dedicated team to maintain the website’s integrity in either/both the front end and back end. The team of designers that create original advertisements will gain experience designing the website’s layout and images too, increasing the quality of future advertisements and other marketing endeavours.
 
 
-Comparison to similar products
-Basically every big tech company has an advertising product or service, incorporating AI and personalized content. Our services are more based on the procurement and placement of advertisements physically and/or digitally on different platforms, rather than the automatic placements on big tech owned services. Other than that, the agencies that are focused on advertisement are either distributing or creating the adverts, our firm does both or one of the services whether or not the client chooses them or not.
-
-
-Reflection analysis
-The creation of our product will give us a vector of the acquisition of our services, increasing our client pool and in turn net revenue. Another benefit we gain from this is the experience our staff gain from the development process,
-
-# WBS Work Breakdown Structure
+## WBS Work Breakdown Structure
 | ID | Main Task                                | Sub Task                                                     | PERT Duration   | Start    | Finish   | Predecessor | Resource Name     |
 |----|------------------------------------------|--------------------------------------------------------------|-----------------|----------|----------|-------------|-------------------|
 | 1  | Planning into early prototype            | Personal list, Wireframe concepts and documentation planning | 3 days 12 hours | 1/06/21  | 4/06/21  |             | Josh, Arran, Liam |
@@ -61,7 +61,7 @@ The creation of our product will give us a vector of the acquisition of our serv
 | 14 | Post update                              | Release updates for post issues                              | 5 days          | 20/09/21 | 25/09/21 | 13          | Josh, Arran, Liam |
 
 
-# Roadmap:
+## Roadmap:
 
 
 |Initiation|
@@ -110,19 +110,20 @@ The creation of our product will give us a vector of the acquisition of our serv
 
 
 
-## Initial resources:
-At the start of the project development, resources for almost the entire project are gathered. The basic needs of this project are the funding, development space/area, PCs and development tools, total value of funding at this level of the project is estimated to be around $15,000 to $32,500. The office space of Hashing Advertisements already provided by the company will be used, desktop PCs, laptops and tablets are supplied by the company also. Paid software tools used to develop the website throughout the timeline will be: Adobe Photoshop ($33.44 per month) and Microsoft Office 365 Business Standard (NZ$18.90). For reference the free software in use is Microsoft Visual Studio or Notepad++ for coding and editing the website, Filezilla for FTP and (web based) Github as VCS
+### Initial resources:
+At the start of the project development, resources for almost the entire project are gathered. The basic needs of this project are the funding, development space/area, PCs and development tools, total value of funding at this level of the project is estimated to be around $15,000 to $32,500. The office space of Hashing Advertisements already provided by the company will be used, desktop PCs, laptops and tablets are supplied by the company also. Paid software tools used to develop the website throughout the timeline will be: Adobe Photoshop ($33.44 per month) and Microsoft Office 365 Business Standard (NZ$18.90). For reference the free software in use is Microsoft Visual Studio or Notepad++ for coding and editing the website, Filezilla for FTP and (web based) Github as VCS. Management may need an ERP solution for management of said resources both human and material, so software such as Microsoft Dynamics 365 or Jeeves will be of major importance to management staff.
 
-## Planning resources:
-At this stage, up until the wireframe and prototypes are finished and implemented into the execution, funding will probably be minimal and used mostly on the team’s upkeep. Tools to create wireframes, GUI prototypes and general image manipulation will be essential in this stage. So software such as: Balsamiq, Adobe xd and Photoshop, Webflow or Framer are good choices for the various tasks during the visual prototyping phase
+### Planning resources:
+At this stage, up until the wireframe and prototypes are finished and implemented into the execution, funding will probably be minimal and used mostly on the team’s upkeep. Tools to create wireframes, GUI prototypes and general image manipulation will be essential in this stage. So software such as: Balsamiq, Adobe xd and Photoshop, Webflow or Framer are good choices for the various tasks during the visual prototyping phase.
 
-## Execution resources:
-This phase of the project’s timeline, the resources required are more than the planning phase. Both the programming of the website’s front end structure and functions, and it’s code heavy backend can cause many problems and reactive solutions. Another injection of funding is possibly needed to smoothly progress in the project, but may not be entirely necessary.
+### Execution resources:
+This phase of the project’s timeline, the resources required are more than the planning phase. Both the programming of the website’s front end structure and functions, and it’s code heavy backend can cause many problems and reactive solutions. Another injection of funding is possibly needed to smoothly progress in the project, but may not be entirely necessary. Tools that manage both code fidelity between versions (VCS such as GitHub or Azure DevOps) will be used regularly.
 
-## Closure resources:
-During the closure of this project, less resources are required than the execution period but . Post release there will be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. 
+### Closure resources:
+During the closure of this project, less resources are required than the execution period but . Post release there will be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. Software that manages user feedback may be useful and the acquisition of software such as Retently (Essential package at $110 yearly, professional at $333 yearly) could be a worthwhile investment.
 
-# Risk Register
+
+## Risk Register
 
 Project Risk Plan for: Hashing Advertisements website
 Assessment team members: (Responsibility refers to the stakeholder)
@@ -138,7 +139,7 @@ Assessment team members: (Responsibility refers to the stakeholder)
 |Log in overflow|After a total of 35 user accounts have been registered, there is a chance that no other entries can be created in the database|7|1|19|Analyse backend code that is linking the login information to database. Analyse database itself and its link to website backend, fix issues when found|M. Rosmov|
 |About page doesn’t load|The about page doesn’t load properly when accessed from the service page|5|5|14|Fix code relating to the link between service and about|M. Rosmov|
 
-# Testing Document
+## Testing Document
 
 |Process|Function being tested|Steps|Status|Expected Result|Result|
 |:--|:--:|:--:|:--:|:--:|--:|
@@ -149,7 +150,7 @@ Assessment team members: (Responsibility refers to the stakeholder)
 |More details button|More details button within the “Our Services” page|2|Not working|Clicking the button “More details”|will send the user to the service listings page|Link could be broken or the button function isn’t working properly, possibly the boxes that hold them could break the button|
 |Service boxes|Boxes within the the “Our services” page|1|Passed|Upon entering the our services page, there will be three boxes in the bottom three quarters of the page the hold the brief information and contact details of the service|Boxes appear as desired, holding all contents adequately|
 
-# Wireframes:
+## Wireframes:
 ![image](https://user-images.githubusercontent.com/83798776/121623513-ec7d4c00-cac3-11eb-8df8-d92dbe11c239.png)
 ![image](https://user-images.githubusercontent.com/83798776/121623543-fbfc9500-cac3-11eb-904a-01ec0e9cf262.png)
 ![image](https://user-images.githubusercontent.com/83798776/121623548-ff901c00-cac3-11eb-82e0-6fe6aee7f20a.png)
