@@ -80,7 +80,7 @@ The creation of our product will give us a vector of the acquisition of our serv
 
 
 |Prototype/design|
-|=|
+|-|
 |Version 1 is created and the very basic functions of the website are implemented. High fidelity prototypes can be applied during implementation|
 
 
@@ -131,8 +131,7 @@ Assessment team members: (Responsibility refers to the stakeholder)
 |:--|:--:|:--:|:--:|:--:|:--:|--:|
 |Liam absence|One of the individuals on the development team is absent often, and his tasks can be communicated to him|7|4||18|Establish|contact via Zoom, Skype or Microsoft teams | Give tasks to him through these programs|T. Jameson|
 |Josh work leave|Josh takes a work leave to Columbia on occasion, often coming back within 2 weeks to a month|5|2|16|Get him a mobile work solution (Laptop w/ international mobile data plan)|Make him contact from zoom or skype with said laptop|Josh, T. Jameson|
-
-Error message of “Script javascpt 72 fatal error” when buttons are pressed|Doesn’t seem to impact the button but is annoying|1|8|4|Fix referred line in javascript backend|Delete function|M. Rosmov|
+|Error message of “Script javascpt 72 fatal error” when buttons are pressed|Doesn’t seem to impact the button but is annoying|1|8|4|Fix referred line in javascript backend|Delete function|M. Rosmov|
 |Navigation bar causing crashing|Website freezes and crashes when the navigation bar is dropped down|9|3|22|Analyse, locate and fix bugs or messy code in the navigation bar section of code|Analyse and fix code linking/relating to navigation bar|M. Rosmov|
 |Banner resolution|The banner’s resolution is extremely low|2|10|6|If export mistake: save banner as png and a higher resolution|If image is actually that resolution: Upscale via photoshop or AI|Can always create another image|N. Alan|
 |Link switching||Navigation bar links can randomly take user to other undesired pages|4|1|10|Fix links within the navigation bar|M. Rosmov|
