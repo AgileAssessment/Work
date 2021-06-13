@@ -134,7 +134,7 @@ Assessment team members: (Responsibility refers to the stakeholder)
 |Error message of “Script javascpt 72 fatal error” when buttons are pressed|Doesn’t seem to impact the button but is annoying|1|8|4|Fix referred line in javascript backend. Delete function|M. Rosmov|
 |Navigation bar causing crashing|Website freezes and crashes when the navigation bar is dropped down|9|3|22|Analyse, locate and fix bugs or messy code in the navigation bar section of code. Analyse and fix code linking/relating to navigation bar|M. Rosmov|
 |Banner resolution|The banner’s resolution is extremely low|2|10|6|If export mistake: save banner as png and a higher resolution|If image is actually that resolution: Upscale via photoshop or AI. Can always create another image|N. Alan|
-|Link switching||Navigation bar links can randomly take user to other undesired pages|4|1|10|Fix links within the navigation bar|M. Rosmov|
+|Link switching|Navigation bar links can randomly take user to other undesired pages|4|1|10|Fix links within the navigation bar|M. Rosmov|
 |Log in overflow|After a total of 35 user accounts have been registered, there is a chance that no other entries can be created in the database|7|1|19|Analyse backend code that is linking the login information to database. Analyse database itself and its link to website backend, fix issues when found|M. Rosmov|
 |About page doesn’t load|The about page doesn’t load properly when accessed from the service page|5|5|14|Fix code relating to the link between service and about|M. Rosmov|
 
