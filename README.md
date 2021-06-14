@@ -97,6 +97,17 @@ This phase of the project’s timeline, the resources required are more than the
 ## Closure resources:
 During the closure of this project, less resources are required than the execution period but . Post release there will be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. 
 
+
+|WBS Code|Description|Resource|Amount|Cost|
+|:--|:--:|:--:|:--:|--:|
+|1|Early prototype initial hiring 2x Web Developers|2x Web Designers|4|Average salary 5k monthly x 4 = $20,000 monthly|
+|1 or 1-12|Early stage funds|Funding for entire project|Can be one payment or over each stage|$32,250|
+|1-12|Microsoft Office|Microsoft office 365 for entire team|12|$226.80 Monthly|
+|2, 3|Adobe Creative Cloud and xd subscription|Image manipulation tools for designer staff|4x for 2 designers 1 Head designer 1 Lead marketer|$442.6 Monthly|
+|5|
+|12|Website domain|Domain for HashingAdvertisements.com|1|$442.6|
+
+
 # Risk Register
 
 Project Risk Plan for: Hashing Advertisements website
