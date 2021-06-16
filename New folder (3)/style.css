@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
+/*	Use fonts:
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
+*/
+
+
+html {
+	background-color: whitesmoke;
+	margin: 0 5px 0 5px;
+	max-width: 100vw; /* Prevent page from creating a horizontal scroll bar due to horizontal overflow */
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	min-height: 75px;
+	padding: 2px 8px 1px 8px;
+	background-color: mediumseagreen;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin-left: -10px;
+}
+
+#pagetitle {
+	margin-bottom: 2px;
+	margin-top: 4px;
+	height: 50%;
+}
+
+a { /* Buttons in the navigation bar */
+	margin: 0 10px 0 10px;
+	padding: 5px 5px 5px 5px;
+	width: 30%;
+	border-radius: 40%;
+	border-style: solid;
+	border-color: forestgreen;
+	border-width: 2px;
+	text-align: center;
+	background-color: lightgreen;
+	text-decoration: none;
+}
+
+a:visited { /* Stops visited links from being purple text */
+	color: black;
+}
+
+a:hover { /* While the cursor is hovering over the button */
+	color: steelblue;
+}
+
+a:active { /* While the link is being clicked */
+	font-size: 110%;
+}
+
+nav {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 50%;
+}
+
+body {
+	margin: 0 -5px -1vh 5px;
+	min-height: 98vh;
+	position: relative;
+}
+
+footer {
+	position: absolute;
+	text-align: center;
+	right: 0;
+	width: 100vw;
+	bottom: -2vh;
+	height: 50px; /* This used to be a relative value, but that caused issues on displays such as phones in landscape orientation */
+	background-color: burlywood;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+}
+
+img {
+	width: 40%
+}
+/* Make images larger on smaller devices */
+@media screen and (max-width: 480px) {
+	img {
+		width: 90%
+	}
+	
+	a {
+		font-size: 60%;
+		margin: 5px 0 5px 0;
+	}
+}

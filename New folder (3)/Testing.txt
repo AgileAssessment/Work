@@ -1,0 +1,4 @@
+Tested website as viewed from an iPhone 6, iPad, generic notebook and a Galaxy S5, all look good and are legible.
+
+Adjusted padding of navigation buttons to 5px on all sides rather than 2px on sides and 0 on top/bottom
+Also changed the height of the footer to be 50px instead of 7vh, as it broke on mobile devices when viewed landscape
