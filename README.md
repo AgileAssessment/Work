@@ -106,7 +106,6 @@ During the closure of this project, less resources are required than the executi
 |1 or 1-12|Early stage funds|Funding for entire project|Can be one payment or over each stage|$32,250|
 |1-12|Microsoft Office|Microsoft office 365 for entire team|12|$226.80 Monthly|
 |2, 3|Adobe Creative Cloud and xd subscription|Image manipulation tools for designer staff|4x for 2 designers 1 Head designer 1 Lead marketer|$442.6 Monthly|
-|5|
 |12|Website domain|Domain for HashingAdvertisements.com|1|$442.6|
 
 
