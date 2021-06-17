@@ -95,7 +95,7 @@ At this stage, up until the wireframe and prototypes are finished and implemente
 ### Execution resources:
 This phase of the project’s timeline, the resources required are more than the planning phase. Both the programming of the website’s front end structure and functions, and it’s code heavy backend can cause many problems and reactive solutions. Another injection of funding is possibly needed to smoothly progress in the project, but may not be entirely necessary. Tools that manage both code fidelity between versions (VCS such as GitHub or Azure DevOps) may be used regularly.
 
-#### Closure resources:
+### Closure resources:
 During the closure of this project, less resources are required than the execution period but . Post release there shall be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. Software that manages user feedback may be useful and the acquisition of software such as Retently (Essential package at $110 yearly, professional at $333 yearly) could be a worthwhile investment.
 
 ### Resource Constraints:
