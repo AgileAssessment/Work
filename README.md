@@ -86,18 +86,21 @@ After the release of our product, hashingadvertisements.com will give us a sourc
 |User experience and feedback will be monitored by an assigned Admin, helping any users issues or noting bugs to fix in the next update|
 
 
-
 ### Initial resources:
-At the start of the project development, resources for almost the entire project are gathered. The basic needs of this project are the funding, development space/area, PCs and development tools, total value of funding at this level of the project is estimated to be around $15,000 to $32,500. The office space of Hashing Advertisements already provided by the company will be used, desktop PCs, laptops and tablets are supplied by the company also. Paid software tools used to develop the website throughout the timeline will be: Adobe Photoshop ($33.44 per month) and Microsoft Office 365 Business Standard (NZ$18.90). For reference the free software in use is Microsoft Visual Studio or Notepad++ for coding and editing the website, Filezilla for FTP and (web based) Github as VCS. Management may need an ERP solution for management of said resources both human and material, so software such as Microsoft Dynamics 365 or Jeeves will be of major importance to management staff.
+At the start of the project development, resources for almost the entire project are gathered. The basic needs of this project are the funding, development space/area, PCs and development tools, total value of funding at this level of the project is estimated to be around $15,000 to $32,500. The office space of Hashing Advertisements already provided by the company shall  be used, desktop PCs, laptops and tablets are supplied by the company also. Paid software tools used to develop the website throughout the timeline shall be: Adobe Photoshop ($33.44 per month) and Microsoft Office 365 Business Standard (NZ$18.90). For reference the free software in use is Microsoft Visual Studio or Notepad++ for coding and editing the website, Filezilla for FTP and (web based) Github as VCS. Management may need an ERP solution for management of said resources both human and material, so software such as Microsoft Dynamics 365 or Jeeves might be of major importance to management staff.
 
 ### Planning resources:
-At this stage, up until the wireframe and prototypes are finished and implemented into the execution, funding will probably be minimal and used mostly on the team’s upkeep. Tools to create wireframes, GUI prototypes and general image manipulation will be essential in this stage. So software such as: Balsamiq, Adobe xd and Photoshop, Webflow or Framer are good choices for the various tasks during the visual prototyping phase.
+At this stage, up until the wireframe and prototypes are finished and implemented into the execution, funding would probably be minimal and used mostly on the team’s upkeep. Tools to create wireframes, GUI prototypes and general image manipulation shall be essential in this stage. So software such as: Balsamiq, Adobe xd and Photoshop, Webflow or Framer are good choices for the various tasks during the visual prototyping phase.
 
 ### Execution resources:
-This phase of the project’s timeline, the resources required are more than the planning phase. Both the programming of the website’s front end structure and functions, and it’s code heavy backend can cause many problems and reactive solutions. Another injection of funding is possibly needed to smoothly progress in the project, but may not be entirely necessary. Tools that manage both code fidelity between versions (VCS such as GitHub or Azure DevOps) will be used regularly.
+This phase of the project’s timeline, the resources required are more than the planning phase. Both the programming of the website’s front end structure and functions, and it’s code heavy backend can cause many problems and reactive solutions. Another injection of funding is possibly needed to smoothly progress in the project, but may not be entirely necessary. Tools that manage both code fidelity between versions (VCS such as GitHub or Azure DevOps) may be used regularly.
 
-### Closure resources:
-During the closure of this project, less resources are required than the execution period but . Post release there will be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. Software that manages user feedback may be useful and the acquisition of software such as Retently (Essential package at $110 yearly, professional at $333 yearly) could be a worthwhile investment.
+#### Closure resources:
+During the closure of this project, less resources are required than the execution period but . Post release there shall be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. Software that manages user feedback may be useful and the acquisition of software such as Retently (Essential package at $110 yearly, professional at $333 yearly) could be a worthwhile investment.
+
+### Resource Constraints:
+Our team shall be kept small (Maximum of 12 staff) due to management keeping hiring constraints for our project, but the team also needs to be kept adaptive and have clear communications between each other (Which becomes more difficult the larger the team becomes). Funding constraints are strict with a maximum possible funding being capped at $60,000, this funding shall strictly be used as business expenses. Although there is a degree of high autonomy within the development team, the website’s design is ultimately decided by the company’s upper management, so each
+
 
 ### Resource Needs Table:
 |WBS Code|Description|Resource|Amount|Cost|
@@ -159,5 +162,3 @@ Assessment team members: (Responsibility refers to the stakeholder)
 ![image](https://user-images.githubusercontent.com/83798776/121623513-ec7d4c00-cac3-11eb-8df8-d92dbe11c239.png)
 ![image](https://user-images.githubusercontent.com/83798776/121623543-fbfc9500-cac3-11eb-904a-01ec0e9cf262.png)
 ![image](https://user-images.githubusercontent.com/83798776/121623548-ff901c00-cac3-11eb-82e0-6fe6aee7f20a.png)
-
-
