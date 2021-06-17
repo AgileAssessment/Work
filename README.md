@@ -1,4 +1,4 @@
-# Work
+# Documentation of HashingAdvertisements.com
 Stakeholder Information
 |Name|Position|Internal/External|Department|Expectation|Alma Mater|Location|
 |:--|:--:|:--:|:--:|:--:|:--:|--:|
@@ -9,13 +9,17 @@ Stakeholder Information
 |L. Man|Lead Marketing|Internal|Marketing|Steer marketing efforts both digital and physical, will also advise decisions associated with our business; due to the focus of our services being marketing|Canterbury Uni - Marketing|9 St. Michael Street|
 |Q. Jones|QA lead|Internal|QA|Ensure the overall quality of our product, and diagnose any flaws associated with the product|Unitec - Quality Management|43 Havel Drive
 |D. Laster|Majority Shareholder|External|N/A|Hold majority shares of the company and make decisions on behalf of the shareholders|NI|102 Timbrook Street|
+|Josh|Developer|Internal|Development|Grunt developer, specialized in Javascript and HTML.|N/A|N/A|
+|Liam|Developer|Internal|Development|Specialized in all types of coding and design.|N/A|N/A|
+|Arun|Developer|Internal|Development|Specialized in all coding and design tools.|N/A|N/A|
 
-# Description of Product
+## Description of Product
 
-## General Description
+### General Description
 
-HashingAdvertisements.com is a website that will present the advertising services of Hashing Advertisements inc, these services can be ordered and configured on the website. Customers can view the specific details, customize then order the advertising services. The design of our website should reflect our style and format of our advertisements, so the quality of  The website’s design will be a mix of minimalism and corporate imagery, appealing to the larger firms that require advertising services.
-This product is being made to both promote and ease the acquisition of our company’s services.
+“HashingAdvertisements.com” is going to be a website that will present the advertising services of Hashing Advertisements inc, these services can be ordered and configured on the website. Customers can view the specific details, customize then order the advertising services. The design of our website should reflect our style and format of our advertisements, so the quality of  The website’s design will be a mix of minimalism and corporate imagery, appealing to the larger firms that require advertising services. 
+ 
+This product is being made to both promote and ease the acquisition of our company’s services. And to also expand our horizons on potential clientele, and both flourish financially from deals with them through contact with our sales team.
 
 |Main Features|
 |-|
@@ -27,16 +31,14 @@ Service listings(pricing) page: Lists every service, it’s price and details.
 About: Description of company’s history, goals, staff and products/services. 
 Login: Login screen for staff and returning customers.
 
+### Comparison to similar products
+Basically every big tech company has an advertising product or service, incorporating AI and personalized content. Our services are more based on the procurement and placement of advertisements physically and/or digitally on different platforms, rather than the automatic placements on big tech owned services. Other than that, the agencies that are focused on advertisement are either distributing or creating the adverts, our firm does both or one of the services whether or not the client chooses them or not. Although big tech is the goliath to our David, there are much more mid to small scale competitors with similar websites that we must stand out from. In this case we should make our website’s design striking yet unique and most of all, simple and navigable for maximum ease of use and visually distinctness for any future clients.
 
-Comparison to similar products
-Basically every big tech company has an advertising product or service, incorporating AI and personalized content. Our services are more based on the procurement and placement of advertisements physically and/or digitally on different platforms, rather than the automatic placements on big tech owned services. Other than that, the agencies that are focused on advertisement are either distributing or creating the adverts, our firm does both or one of the services whether or not the client chooses them or not.
-
-
-Reflection analysis
-The creation of our product will give us a vector of the acquisition of our services, increasing our client pool and in turn net revenue. Another benefit we gain from this is the experience our staff gain from the development process,
+### Reflection analysis
+After the release of our product, hashingadvertisements.com will give us a source of acquisitions of our services, increasing our client pool and in turn net revenue. Another benefit we gain from this is the experience our staff gain from the development process, this experience can be applied to the post-release monitoring and updates or future projects. In the future our team might create a successor to our recently made website or another project entirely, and can reflect on both the steps and milestones, successes and issues overcome within the course of this project’s timeline. Our company might create a dedicated team to maintain the website’s integrity in either/both the front end and back end. The team of designers that create original advertisements will gain experience designing the website’s layout and images too, increasing the quality of future advertisements and other marketing endeavours.
 
 
-# Roadmap:
+## Roadmap:
 
 
 |Initiation|
@@ -85,17 +87,17 @@ The creation of our product will give us a vector of the acquisition of our serv
 
 
 
-## Initial resources:
-At the start of the project development, resources for almost the entire project are gathered. The basic needs of this project are the funding, development space/area, PCs and development tools, total value of funding at this level of the project is estimated to be around $15,000 to $32,500. The office space of Hashing Advertisements already provided by the company will be used, desktop PCs, laptops and tablets are supplied by the company also. Paid software tools used to develop the website throughout the timeline will be: Adobe Photoshop ($33.44 per month) and Microsoft Office 365 Business Standard (NZ$18.90). For reference the free software in use is Microsoft Visual Studio or Notepad++ for coding and editing the website, Filezilla for FTP and (web based) Github as VCS
+### Initial resources:
+At the start of the project development, resources for almost the entire project are gathered. The basic needs of this project are the funding, development space/area, PCs and development tools, total value of funding at this level of the project is estimated to be around $15,000 to $32,500. The office space of Hashing Advertisements already provided by the company will be used, desktop PCs, laptops and tablets are supplied by the company also. Paid software tools used to develop the website throughout the timeline will be: Adobe Photoshop ($33.44 per month) and Microsoft Office 365 Business Standard (NZ$18.90). For reference the free software in use is Microsoft Visual Studio or Notepad++ for coding and editing the website, Filezilla for FTP and (web based) Github as VCS. Management may need an ERP solution for management of said resources both human and material, so software such as Microsoft Dynamics 365 or Jeeves will be of major importance to management staff.
 
-## Planning resources:
-At this stage, up until the wireframe and prototypes are finished and implemented into the execution, funding will probably be minimal and used mostly on the team’s upkeep. Tools to create wireframes, GUI prototypes and general image manipulation will be essential in this stage. So software such as: Balsamiq, Adobe xd and Photoshop, Webflow or Framer are good choices for the various tasks during the visual prototyping phase
+### Planning resources:
+At this stage, up until the wireframe and prototypes are finished and implemented into the execution, funding will probably be minimal and used mostly on the team’s upkeep. Tools to create wireframes, GUI prototypes and general image manipulation will be essential in this stage. So software such as: Balsamiq, Adobe xd and Photoshop, Webflow or Framer are good choices for the various tasks during the visual prototyping phase.
 
-## Execution resources:
-This phase of the project’s timeline, the resources required are more than the planning phase. Both the programming of the website’s front end structure and functions, and it’s code heavy backend can cause many problems and reactive solutions. Another injection of funding is possibly needed to smoothly progress in the project, but may not be entirely necessary.
+### Execution resources:
+This phase of the project’s timeline, the resources required are more than the planning phase. Both the programming of the website’s front end structure and functions, and it’s code heavy backend can cause many problems and reactive solutions. Another injection of funding is possibly needed to smoothly progress in the project, but may not be entirely necessary. Tools that manage both code fidelity between versions (VCS such as GitHub or Azure DevOps) will be used regularly.
 
-## Closure resources:
-During the closure of this project, less resources are required than the execution period but . Post release there will be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. 
+### Closure resources:
+During the closure of this project, less resources are required than the execution period but . Post release there will be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. Software that manages user feedback may be useful and the acquisition of software such as Retently (Essential package at $110 yearly, professional at $333 yearly) could be a worthwhile investment.
 
 
 |WBS Code|Description|Resource|Amount|Cost|
