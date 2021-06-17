@@ -1,5 +1,5 @@
 # Documentation of HashingAdvertisements.com
-Stakeholder Information
+## Stakeholder Information
 |Name|Position|Internal/External|Department|Expectation|Alma Mater|Location|
 |:--|:--:|:--:|:--:|:--:|:--:|--:|
 |H. Giovanni|CEO|Internal|Management|Manage the entire team/company and make higher level decisions|Uni of Milan - General Management|12 Richmond Street
@@ -99,7 +99,7 @@ This phase of the project’s timeline, the resources required are more than the
 ### Closure resources:
 During the closure of this project, less resources are required than the execution period but . Post release there will be some sort of upkeep cost on the website, that is a combination of the domain cost and the wages of maintainers. Software that manages user feedback may be useful and the acquisition of software such as Retently (Essential package at $110 yearly, professional at $333 yearly) could be a worthwhile investment.
 
-
+### Resource Needs Table:
 |WBS Code|Description|Resource|Amount|Cost|
 |:--|:--:|:--:|:--:|--:|
 |1|Early prototype initial hiring 2x Web Developers|2x Web Designers|4|Average salary 5k monthly x 4 = $20,000 monthly|
@@ -110,7 +110,7 @@ During the closure of this project, less resources are required than the executi
 |12|Website domain|Domain for HashingAdvertisements.com|1|$442.6|
 
 
-# Risk Register
+## Risk Register
 
 Project Risk Plan for: Hashing Advertisements website
 Assessment team members: (Responsibility refers to the stakeholder)
@@ -126,7 +126,7 @@ Assessment team members: (Responsibility refers to the stakeholder)
 |Log in overflow|After a total of 35 user accounts have been registered, there is a chance that no other entries can be created in the database.|7|1|19|Analyse backend code that is linking the login information to database Analyse database itself and its link to website backend Fix issues when found|M. Rosmov|
 |About page doesn’t load|The about page doesn’t load properly when accessed from the service page|5|5|14|Fix code relating to the link between service and about|M. Rosmov|
 
-# Testing Document
+## Testing Document
 
 |Process|Function being tested|Steps|Status|Expected Result|Result|
 |:--|:--:|:--:|:--:|:--:|--:|
@@ -137,7 +137,7 @@ Assessment team members: (Responsibility refers to the stakeholder)
 |More details button|More details button within the “Our Services” page|2|Not working|Clicking the button “More details” will send the user to the service listings page|Link could be broken or the button function isn’t working properly, possibly the boxes that hold them could break the button.
 |Service boxes|Boxes within the the “Our services” page|1|Passed|Upon entering the our services page, there will be three boxes in the bottom three quarters of the page the hold the brief information and contact details of the service|Boxes appear as desired, holding all contents adequately.
 
-# WBS Work Breakdown Structure
+## WBS Work Breakdown Structure
 
 |ID|Main Task|Sub Task|PERT Duration|Start|Finish|Predecessor|Resource Name|
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|--:|
@@ -156,7 +156,7 @@ Assessment team members: (Responsibility refers to the stakeholder)
 |13|Post Release Monitoring|Company Adim monitors the website|2 month|20/07/21|20/09/21|12|Josh, Arran, Liam|
 |14|Post update|Release updates for post issues|5 days|20/09/21|25/09/21|13|Josh, Arran, Liam|
 
-# Wireframes:
+## Wireframes:
 ![image](https://user-images.githubusercontent.com/83798776/121623513-ec7d4c00-cac3-11eb-8df8-d92dbe11c239.png)
 ![image](https://user-images.githubusercontent.com/83798776/121623543-fbfc9500-cac3-11eb-904a-01ec0e9cf262.png)
 ![image](https://user-images.githubusercontent.com/83798776/121623548-ff901c00-cac3-11eb-82e0-6fe6aee7f20a.png)
